@@ -261,3 +261,10 @@ textarea {
   }
 }
 
+
+.preamble p {
+  display: none;
+  display: inline;
+  display: inline-block;
+  display: block;
+}
